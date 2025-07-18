@@ -24,9 +24,9 @@ Java | Python | Selenium | TestNG | Cucumber | Pytest-BDD | Git | POM| Hybrid Fr
 
 ## 📂 Featured Projects
 ### 🔹Project 3: Title: Project Lifecycle Management (3D Experience)
-**Tools/Utilities:** Selenium, Eclipse, Git and GitHub, Cucumber, BDD, Pytest, CICD Pipeline using Git, JIRA, Confluence Page
-**Description:** It offers a unified environment where all stakeholders can collaborate in real- time, reducing the silos between departments such as design, engineering, manufacturing and marketing. It manages the entire lifecycle of a product from inception through engineering design and manufacturing, to service and disposal.
-**Roles and Responsibility:**
+- **Tools/Utilities:** Selenium, Eclipse, Git and GitHub, Cucumber, BDD, Pytest, CICD Pipeline using Git, JIRA, Confluence Page
+- **Description:** It offers a unified environment where all stakeholders can collaborate in real- time, reducing the silos between departments such as design, engineering, manufacturing and marketing. It manages the entire lifecycle of a product from inception through engineering design and manufacturing, to service and disposal.
+- **Roles and Responsibility**
 1. Writing the scenarios, test cases and test base. Involved in identifying and creating the Business component & generic Scripts
 2. Creating automates scenarios using selenium WebDriver with Pytest BDD and Cucumber
 3. Handling test automation maintenance and execution from different squads.
