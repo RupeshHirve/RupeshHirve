@@ -20,12 +20,7 @@ Java | Python | Selenium | TestNG | Cucumber | Pytest-BDD | Git | POM| Hybrid Fr
 **Masters of Engineering in VLSI & Embedded Systems**
 
 ## 💼 Experience
-**Total Experience:** 5 years
-*1. Tata Technologies Ltd.*
-  Sr. Software Developer- Test Automation (Jul 2023- Present)
-*2. Tata Technologies Ltd - Third party payroll of Spectrum Talent Management(P) Ltd*
-  Software Tester – (Jul 2021 - July 2023)
-
+**Total Experience:** 5 + years
 
 ## 📂 Featured Projects
 ### 🔹Project 3: Title: Project Lifecycle Management (3D Experience)
