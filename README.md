@@ -19,6 +19,14 @@ Java | Python | Selenium | TestNG | Cucumber | Pytest-BDD | Git | POM| Hybrid Fr
 ## 🎓 Education
 **Masters of Engineering in VLSI & Embedded Systems**
 
+## 💼 Experience
+**Total Experience:** 5 years
+**Tata Technologies Ltd.**
+Sr. Software Developer- Test Automation (Jul 2023- Present) 
+**Tata Technologies Ltd - Third party payroll of Spectrum Talent Management(P) Ltd**
+Software Tester – (Jul 2021 - July 2023)
+
+
 ## 📂 Featured Projects
 ### 🔹Project 3: Title: Project Lifecycle Management (3D Experience)
 Tools/Utilities: Selenium, Eclipse, Git and GitHub, Cucumber, BDD, Pytest, CICD Pipeline using Git, JIRA, Confluence Page 
