@@ -1,4 +1,11 @@
 # 👨‍💻 Rupesh Hirve | Test Automation Engineer
+# 👋 Hi, I'm Rupesh Hirve
+**Test Automation Engineer | SDET | Python & Java | Selenium | API | BDD | CI/CD**
+---
+## 🔧 Tech Stack
+Java | Python | Selenium | TestNG | Cucumber | Pytest-BDD | Git | POM| Hybrid Framework | Postman | REST API | Maven 
+
+---
 
 🚀 Passionate about building robust automation frameworks and delivering bug-free software.
 
