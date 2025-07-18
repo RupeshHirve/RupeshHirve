@@ -21,9 +21,9 @@ Java | Python | Selenium | TestNG | Cucumber | Pytest-BDD | Git | POM| Hybrid Fr
 
 ## 💼 Experience
 **Total Experience:** 5 years
-**1. Tata Technologies Ltd.**
+*1. Tata Technologies Ltd.*
   Sr. Software Developer- Test Automation (Jul 2023- Present)
-**2. Tata Technologies Ltd - Third party payroll of Spectrum Talent Management(P) Ltd**
+*2. Tata Technologies Ltd - Third party payroll of Spectrum Talent Management(P) Ltd*
   Software Tester – (Jul 2021 - July 2023)
 
 
