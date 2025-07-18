@@ -5,7 +5,7 @@
 ## 🔧 Skills
 - **Languages**: Java, Python
 - **Frameworks**: Selenium WebDriver, TestNG, JUnit, Pytest, pytest-bdd, Cucumber
-- **Tools**: Maven, Git, Jenkins, Postman, Eclipse, VS Code
+- **Tools**: Maven, Git, Jenkins, Postman, Eclipse
 - **Testing**: Functional, Regression, Integration, Smoke, API Testing
 - **CI/CD**: Jenkins, GitHub Actions
 - **Other**: POM Design Pattern, Hybrid Frameworks, REST API Automation
