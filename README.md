@@ -37,17 +37,17 @@ Java | Python | Selenium | TestNG | Cucumber | Pytest-BDD | Git | POM| Hybrid Fr
 - **Tools/Utilities:** Redmine, Selenium, TestNG, Eclipse, Page Object Model, Maven, Hybrid framework, Git and GitHub, POI API frameworks.
 - **Description:** This project is based on automobile dealer management system. It includes main dealer who can transfer the stocks of the vehicle to the sub dealer. This dealer management system includes mainly three modules, sales, service and parts. So, in sales module can do the complete sales process till delivery. Here also some common modules are included, just like employee management, CRM, Used Car Management, then Master module for handling the management level process, just like managing user rights.
 - **Roles and Responsibility**
-**•	Automation Testing:**
+- **•	Automation Testing:**
   1. Writing the scenarios, test cases and test base. Involved in identifying and creating the Business component & generic Scripts, design POM.
   2. Automate scenarios using selenium WebDriver, hybrid framework using maven.
   3. Prepared and executed batch test suite through TestNG
   4. Write, review and execute the test cases using Excel Data Provider
   5. Handling multiple browsers, dynamic web elements, multiple windows, alert boxes etc. Captured screenshot for failure test cases, generating logs
   6. Prepared test report using extent report based on the Test results
-**•	Manual Testing:**
-1. Understanding business requirement document and identifying scenarios
-2. Writing   test cases as per	the scenarios and updating test cases as per change/requirements. Executing test cases, maintaining artifacts.
-3. Maintaining Enh/CR, Issues, Observations in shared excel sheet.
+- **•	Manual Testing:**
+  1. Understanding business requirement document and identifying scenarios
+  2. Writing   test cases as per	the scenarios and updating test cases as per change/requirements. Executing test cases, maintaining artifacts.
+  3. Maintaining Enh/CR, Issues, Observations in shared excel sheet.
 
 ### 🔹Project 1- OrangeHRM Automation Framework
 > Python + Selenium + pytest-bdd + cucumber
