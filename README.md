@@ -1,5 +1,4 @@
 # 👨‍💻 Rupesh Hirve | Test Automation Engineer
-## Masters of Engineering in VLSI & Embedded Systems
 
 ## 🔧 Tech Stack
 Java | Python | Selenium | TestNG | Cucumber | Pytest-BDD | Git | POM| Hybrid Framework | Postman | REST API | Maven 
@@ -16,6 +15,9 @@ Java | Python | Selenium | TestNG | Cucumber | Pytest-BDD | Git | POM| Hybrid Fr
 - **Other**: POM Design Pattern, Hybrid Frameworks, REST API Automation
 
 ---
+
+## 🎓 Education
+**Masters of Engineering in VLSI & Embedded Systems**
 
 ## 📂 Featured Projects
 ### 🔹Project 3: Title: Project Lifecycle Management (3D Experience)
